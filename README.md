@@ -1,4 +1,4 @@
-# HI :v:
+# Hi :v:
 ## About me
 
 Hello, I'm Max, a Data & Artificial Intelligence engineering student at Efrei Paris. I'm into computer vision and data analysis, photographer on free time 📸.
