@@ -1,17 +1,10 @@
-# Hello !
+# HI :v:
 ## About me
 
-Hello, I'm Maximilien, a Data & Artificial Intelligence master student at Efrei Paris. I am into Research and Machine Learning, you will find a few of my works here. If you have any questions please contact me [here](https://www.linkedin.com/in/maximilien-dufau/).
+Hello, I'm Max, a Data & Artificial Intelligence engineering student at Efrei Paris. I'm into computer vision and data analysis, photographer on free time 📸.
 
-## Projects
+## Main projects you can find here
 
-- Trashedy : An automatic waste detection and classification system. Created with Pytorch 1.9.0. See the project readme for more information.
-
-## Articles
-
-Still under review, come back in November !
-
-## Music
-
-Bored ? Try [this](https://open.spotify.com/playlist/1JHhPTolRVOLb1rMeKdaDq?si=c1fbd3625e4f49be) !
+- **Trashedy :** An automatic waste detection and classification system. Created with Pytorch 1.9.0. See the project readme for more information.
+- **Messenger Visualizer :** A vizualisation tool for extracting statistics from Messenger chats. Who responds the fastest, who gets the most feedback, etc.?
 
